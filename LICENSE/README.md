@@ -1,1 +1,1 @@
-# blog-coore
+# 代码LICENSE
